@@ -43,6 +43,7 @@ cask 'sequel-pro'
 cask 'sketch'
 cask 'spotify'
 cask 'whatsapp'
+cask 'figma'
 
 # Quicklook
 cask 'qlcolorcode'
