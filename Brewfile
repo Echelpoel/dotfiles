@@ -44,6 +44,7 @@ cask 'sketch'
 cask 'spotify'
 cask 'whatsapp'
 cask 'figma'
+cask 'docker'
 
 # Quicklook
 cask 'qlcolorcode'
