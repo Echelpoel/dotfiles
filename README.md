@@ -36,7 +36,7 @@ If you did all of the above you may now follow these install instructions to set
 5. Clone this repo to `~/.dotfiles`
 6. Run `install.sh` to start the installation
 ```zsh
-sudo sh install.sh
+sh install.sh
 ```
 7. After mackup is synced with your cloud storage, restore preferences by running `mackup restore`
 8. Restart your computer to finalize the process
