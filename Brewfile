@@ -20,6 +20,7 @@ brew 'tree' # List directories in a tree structure
 brew 'node'
 brew 'yarn'
 brew 'watchman'
+brew 'cocoapods'
 
 # Apps
 cask 'firefox'
