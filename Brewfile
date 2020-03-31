@@ -47,7 +47,7 @@ cask 'spotify'
 cask 'whatsapp'
 cask 'figma'
 cask 'docker'
-cask 'adoptopenjdk8'
+cask 'adoptopenjdk/openjdk/adoptopenjdk8'
 
 # Quicklook
 cask 'qlcolorcode'
