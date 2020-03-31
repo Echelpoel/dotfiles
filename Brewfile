@@ -3,6 +3,7 @@ tap 'homebrew/cask'
 tap 'homebrew/cask-fonts'
 tap 'homebrew/cask-versions'
 tap 'homebrew/bundle'
+tap 'AdoptOpenJDK/openjdk'
 
 # Binaries
 brew 'bash' # Latest Bash version
@@ -46,6 +47,7 @@ cask 'spotify'
 cask 'whatsapp'
 cask 'figma'
 cask 'docker'
+cask 'adoptopenjdk8'
 
 # Quicklook
 cask 'qlcolorcode'
