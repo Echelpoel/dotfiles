@@ -40,7 +40,6 @@ cask 'airfoil'
 cask 'android-studio'
 cask 'dropbox'
 cask 'flux'
-cask 'sequel-pro'
 cask 'sketch'
 cask 'spotify'
 cask 'whatsapp'
@@ -72,3 +71,4 @@ mas 'The Unarchiver', id: 425424353
 mas 'Microsoft To Do', id: 1274495053
 mas 'Color Picker', id: 641027709
 mas 'Pocket', id: 568494494
+mas 'Sequel Ace', id: 1518036000
