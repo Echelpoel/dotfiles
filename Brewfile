@@ -46,7 +46,8 @@ cask 'whatsapp'
 cask 'figma'
 cask 'docker'
 cask 'adoptopenjdk/openjdk/adoptopenjdk8'
-cask 'flipper
+cask 'flipper'
+cask 'rectangle'
 
 # Quicklook
 cask 'qlcolorcode'
