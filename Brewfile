@@ -22,6 +22,7 @@ brew 'node'
 brew 'yarn'
 brew 'watchman'
 brew 'cocoapods'
+brew 'gradle'
 
 # Apps
 cask 'firefox'
